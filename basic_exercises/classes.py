@@ -10,7 +10,7 @@
 
 class User:
 
-    def __init__(self, username = "", mail, = "", name = ""):
+    def __init__(self, username = "", mail = "", name = ""):
         self.username = username
         self.mail = mail
         self.name = name
